@@ -2,7 +2,7 @@ welcome
 learn-all-about-bookdown
 setup
 démarche-actualisée---24-03-2022
-moving-forward
-quand-on-copie-colle-un-dossier-avec-le-projet-on-a-la-dossier-.git-qui-est-caché-et-cest-pour-ça-que-le-origin-ne-marche-pas
-chapitre-3
+installer-longlet-git-dans-rstudio
+modifier-son-livre-et-mettre-à-jour-en-ligne
+chapitre-2
 chapitre-de-conclusion-de-la-formation
